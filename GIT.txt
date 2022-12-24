@@ -1,1 +1,1 @@
-This is version 1 of project.
+This is a version 1 of project.
