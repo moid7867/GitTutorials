@@ -1,2 +1,2 @@
 This is a version 1 of project.
-New changes made now working...
+New changes made now working.
