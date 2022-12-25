@@ -1,2 +1,2 @@
 This is a version 1 of project.
-New change
+New changes
